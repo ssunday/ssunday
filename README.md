@@ -1,16 +1,23 @@
-### Hi there 👋
 
-<!--
-**ssunday/ssunday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Sarah Sunday (she/her). I'm:
 
-Here are some ideas to get you started:
+- a software developer/consultant
+- the owner of [Niedziela Solutions, LLC](https://www.niedzielasolutions.com)
+- a science-fiction/fantasy book writer
+- collector of Rubaiyat of Omar Khayyam editions
+- a food reviewer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+and more!
+
+## My Websites
+
+- [Personal Website](https://sasunday.com)
+- [Niedziela Solutions, LLC](https://www.niedzielasolutions.com)
+- [The Rubaiyat of Omar Khayyam](https://www.therubaiyatofomarkhayyam.com)
+- [The Spine of the Empire](https://www.thespineoftheempire.com)
+- [Selective Elective - Food Reviews](https://www.selectiveelective.com)
+
+## Contact
+
+- ssunday on [Keybase](https://keybase.io)
+- [My business website](https://www.niedzielasolutions.com/contact/)
