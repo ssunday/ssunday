@@ -21,3 +21,9 @@ and more!
 
 - ssunday on [Keybase](https://keybase.io)
 - [My business website](https://www.niedzielasolutions.com/contact/)
+
+![ssunday's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssunday&count_private=true&theme=tokyonight&show_icons=true)
+
+from the wonderful
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
