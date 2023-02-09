@@ -2,7 +2,6 @@
 I'm Sarah Sunday (she/her). I'm:
 
 - a software developer/consultant
-- the owner of [Niedziela Solutions, LLC](https://www.niedzielasolutions.com)
 - a science-fiction/fantasy book writer
 - collector of Rubaiyat of Omar Khayyam editions
 - a food reviewer
@@ -19,6 +18,7 @@ and more!
 
 ## Contact
 
+- [LinkedIn](https://www.linkedin.com/in/sarah-sunday-niedziela/)
 - ssunday on [Keybase](https://keybase.io)
 - [My business website](https://www.niedzielasolutions.com/contact/)
 
