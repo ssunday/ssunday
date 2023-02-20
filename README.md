@@ -18,6 +18,5 @@ and more!
 
 ## Contact
 
-- [LinkedIn](https://www.linkedin.com/in/sarah-sunday-niedziela/)
 - ssunday on [Keybase](https://keybase.io)
 - [My business website](https://www.niedzielasolutions.com/contact/)
