@@ -14,9 +14,3 @@ and more!
 - [The Rubaiyat of Omar Khayyam](https://www.therubaiyatofomarkhayyam.com)
 - [The Spine of the Empire](https://www.thespineoftheempire.com)
 - [Patreon](https://www.patreon.com/sarahsunday)
-
-## Contact
-
-- ssunday on [Keybase](https://keybase.io)
-- [My business website](https://www.niedzielasolutions.com/contact/)
-- [LinkedIn](https://www.linkedin.com/in/sarah-sunday-niedziela/)
